@@ -1,8 +1,8 @@
 streamlit
-streamlit-option-menu
 pandas
-openpyxl
 yfinance
+openpyxl
 plotly
+streamlit-option-menu
 geocoder
-calendar
+requests
