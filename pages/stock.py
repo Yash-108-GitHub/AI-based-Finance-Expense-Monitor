@@ -7,7 +7,7 @@ import pandas as pd
 st.set_page_config(layout="wide")
 
 # List of company names and ticker symbols
-excel_file = r"C:\Users\Yashm\Desktop\finance-tracker-main\Ticker_Company.xlsx"
+excel_file = r"Ticker_Company.xlsx"
 company_data = pd.read_excel(excel_file)
 
 if company_data.empty or "Company_Name" not in company_data.columns or "Symbol" not in company_data.columns:
