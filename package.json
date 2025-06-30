@@ -1,0 +1,11 @@
+{
+  "name": "ai-finance-expense-monitor",
+  "version": "1.0.0",
+  "description": "AI-based Finance Expense Monitor - A Python Streamlit application",
+  "scripts": {
+    "build": "echo 'No npm build step required for this Python Streamlit project.'"
+  },
+  "keywords": ["python", "streamlit", "finance", "expense-tracker"],
+  "author": "",
+  "license": "ISC"
+}
